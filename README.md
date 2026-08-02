@@ -1,6 +1,6 @@
 # Remo Agostinelli
 
-Software engineer building clean full-stack products with **TypeScript** and **Python**. Exploring applied AI (agents, RAG).
+Software engineer building clean full-stack products with TypeScript and Python. Exploring applied AI (agents, RAG).
 
 ## Featured projects
 
@@ -13,7 +13,7 @@ Software engineer building clean full-stack products with **TypeScript** and **P
 - **[MetroSwap](https://github.com/remoale/MetroSwap)** - Campus marketplace for books and academic materials ([live](https://metroswap-73a05.web.app))
   - Full-stack product: auth, listings, chat, payments
 - **[Academic Search Engine](https://github.com/remoale/academic-search-engine)** - Article search indexed with custom AVL trees and hash tables
-  - Java, data structures
+  - Java, data structures and algorithms
 
 ## Stack
 
